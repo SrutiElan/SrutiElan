@@ -6,7 +6,7 @@ Connect with me on [LinkedIn](www.linkedin.com/in/srutielangovan).
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 (https://github-readme-stats.vercel.app/api?username=srutielan&show=reviews,prs_merged_percentage&hide=stars&show_icons=true&theme=dracula&bg_color=00000000) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SrutiElan&show=reviews,prs_merged_percentage&hide=stars&show_icons=false&hide_border=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SrutiElan&show=reviews,prs_merged_percentage&hide=stars&show_icons=false&hide_border=true&hide_rank=true&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/top-langs">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrutiElan&hide_border=true&theme=dracula" />
