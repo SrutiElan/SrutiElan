@@ -1,5 +1,4 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sruti Elangovan and I'm a software developer. I'm based in Davis and in San Jose, California. You can find me on .
 I'm Sruti Elangovan, a software developer based in Davis and San Jose, California. I’m passionate about leveraging computer science to create practical solutions for everyday challenges. With a background in cognitive science, I enjoy crafting intuitive user experiences on the front end while exploring the complexities of back-end systems. My leadership experience has honed my skills in project management, teamwork, and communication. I'm always eager to contribute to impactful tech projects and expand my expertise.
 
 Connect with me on [LinkedIn](www.linkedin.com/in/srutielangovan).
